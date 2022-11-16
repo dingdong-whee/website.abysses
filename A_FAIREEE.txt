@@ -1,0 +1,17 @@
+1_ Bien finir les 2 galeries 
+
+2_ Ecrire le googlesheet + photos Léo
+
+OK le collectif
+
+NON la musique (phrase d'intro avec une volonté générale musique + photos DJs)
+
+
+NON l'univers graphique
+
+
+OK 4_Flappy Bell
+
+5_RandomFun DL les pages, les mettre dans les dossiers et appeler tout index
+Faire fonctionner le randomink avec driiing.fr/Rdm/[1,2,...,x]
+
